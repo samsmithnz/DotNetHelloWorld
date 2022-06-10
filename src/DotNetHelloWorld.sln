@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetHelloWorld.Tests", "DotNetHelloWorld.Tests\DotNetHelloWorld.Tests.csproj", "{80C62774-38EE-432E-9DA8-8F4A0B3B9C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetHelloWorld.Web", "DotNetHelloWorld.Web\DotNetHelloWorld.Web.csproj", "{CCCAB308-EBA4-417B-972E-CD2E59A8EAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C62774-38EE-432E-9DA8-8F4A0B3B9C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C62774-38EE-432E-9DA8-8F4A0B3B9C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C62774-38EE-432E-9DA8-8F4A0B3B9C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C62774-38EE-432E-9DA8-8F4A0B3B9C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCAB308-EBA4-417B-972E-CD2E59A8EAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCAB308-EBA4-417B-972E-CD2E59A8EAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCAB308-EBA4-417B-972E-CD2E59A8EAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCAB308-EBA4-417B-972E-CD2E59A8EAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
